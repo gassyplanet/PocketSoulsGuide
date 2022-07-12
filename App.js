@@ -105,6 +105,7 @@ const styles = StyleSheet.create({
     fontWeight: '400',
   },
   highlight: {
+    color: 'red',
     fontWeight: '700',
   },
 });
